@@ -35,5 +35,3 @@ Create a Jupyter Notebook for each model and host the notebooks on GitHub.
 Create a file for your best model and push to GitHub
 
 Include a README.md file that summarizes your assumptions and findings.
-
-Submit the link to your GitHub project to Bootcamp Spot.
